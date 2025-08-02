@@ -15,7 +15,7 @@ A simple, fast, and reliable URL shortening service built with Flask, similar to
 
 ---
 
-## 📋 Prerequisites
+## 📋 Prerequisites for the project
 
 * Python 3.8 or higher
 * `pip` (Python package installer)
