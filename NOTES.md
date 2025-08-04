@@ -23,7 +23,7 @@ I used AI assistance to help implement this URL shortener service. Specifically:
 - Used string constants for character pool (letters + digits)
 
 ### URL Validation
-- Combined regex pattern matching with `urlparse` for robust validation
+- Combined regex pattern matching with `urlparse` for robust validation checks
 - Added URL normalization to handle URLs without protocols
 - Implemented proper error handling for edge cases
 
