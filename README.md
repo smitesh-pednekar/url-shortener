@@ -82,7 +82,7 @@ pytest test_basic.py
 url-shortener/
 ├── app/
 │   ├── __init__.py
-│   ├── main.py          # Flask application and API endpoints
+│   ├── main.py          # Flask application and API various endpoints
 │   ├── models.py        # Data models and storage
 │   └── utils.py         # Utility functions
 ├── test.py              # Comprehensive test suite
